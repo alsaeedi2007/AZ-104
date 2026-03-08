@@ -13,5 +13,5 @@
 ## Cloud Shell toolbox 
 Cloud shell has many tools that includes but not limited to:
 
- 1. Editor:  
+ 1. `Editor`:  
 
