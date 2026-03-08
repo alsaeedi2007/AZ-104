@@ -10,3 +10,7 @@
 2. Azure Cloud Shell also provides cloud storage to persist files such as SSH keys, scripts, and more.
 3.  you have access to a command-line environment fully connected with your account's permissions and the resources to which you have access. All that works in an infrastructure that's compliant with double encryption at rest by default. You don't need to take any further action.
 
+## Cloud Shell toolbox 
+Cloud shell has many tools that includes but not limited to:
+1. 
+
