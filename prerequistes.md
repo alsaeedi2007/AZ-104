@@ -25,28 +25,28 @@ Cloud shell has many tools that includes the below tools check the table below :
 |                 | Service Fabric CLI                                 |
 |                 | Batch Shipyard                                     |
 |                 | blobxfer                                           |
-| Text editors    | code (Cloud Shell editor)     |
-|                 | vim                           |
-|                 | nano                          |
-|                 | emacs                         |
-| Source control  | git                           |
-| Build tools     | make                          |
-|                 | maven                         |
-|                 | npm                           |
-|                 | pip                           |
-| Containers      | Docker Machine                |
-|                 | Kubectl                       |
-|                 | Helm                          |
-|                 | DC/OS CLI                     |
-| Databases       | MySQL client                  |
-|                 | PostgreSQL client             |
-|                 | sqlcmd Utility                |
-|                 | mssql-scripter                |
-| Other           | iPython Client                |
-|                 | Cloud Foundry CLI             |
-|                 | Terraform                     |
-|                 | Ansible                       |
-|                 | Chef InSpec                   |
-|                 | Puppet Bolt                   |
-|                 | HashiCorp Packer              |
-|                 | Office 365 CLI                |
+| Text editors    | code (Cloud Shell editor)                          |
+|                 | vim                                                |
+|                 | nano                                               |
+|                 | emacs                                              |
+| Source control  | git                                                |
+| Build tools     | make                                               |
+|                 | maven                                              |
+|                 | npm                                                |
+|                 | pip                                                |
+| Containers      | Docker Machine                                     |
+|                 | Kubectl                                            |
+|                 | Helm                                               |
+|                 | DC/OS CLI                                          |
+| Databases       | MySQL client                                       |
+|                 | PostgreSQL client                                  |
+|                 | sqlcmd Utility                                     |
+|                 | mssql-scripter                                     |
+| Other           | iPython Client                                     |
+|                 | Cloud Foundry CLI                                  |
+|                 | Terraform                                          |
+|                 | Ansible                                            |
+|                 | Chef InSpec                                        |
+|                 | Puppet Bolt                                        |
+|                 | HashiCorp Packer                                   |
+|                 | Office 365 CLI                                     |
